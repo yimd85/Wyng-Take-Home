@@ -1,11 +1,11 @@
 # Wyng :: Front-End Developer Take Home
 
 An age gate landing page plugin thatmeets the following criteria:
-Month / Year Birthday Selector
-• Success / FailMessage
-• If user is 21 or older, show “welcome” success message.
-• If user is under the age of 21, show an error message.
-• A “remember me” check box that allows a successful user to return to the page and bypass the age gate.
+* Month / Year Birthday Selector
+* Success / FailMessage 
+* If user is 21 or older, show “welcome” success message.
+* If user is under the age of 21, show an error message.
+* A “remember me” check box that allows a successful user to return to the page and bypass the age gate.
 Bonus:
 • Upgrade the selector to include Monday /Day / Year.
 • Build this plugin to allow the code to be adjusted to easily account for any age requirement.
