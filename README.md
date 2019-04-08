@@ -6,11 +6,8 @@ An age gate landing page plugin thatmeets the following criteria:
 * If user is 21 or older, show “welcome” success message.
 * If user is under the age of 21, show an error message.
 * A “remember me” check box that allows a successful user to return to the page and bypass the age gate.
-
-<br>
-Bonus:
-* Upgrade the selector to include Monday /Day / Year.
-* Build this plugin to allow the code to be adjusted to easily account for any age requirement.
+* Upgrade the selector to include Monday /Day / Year. (bonus)
+* Build this plugin to allow the code to be adjusted to easily account for any age requirement. (bonus)
 <br>
 Created by [David Yim](https://github.com/yimd85).
 <br>
