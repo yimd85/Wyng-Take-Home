@@ -1,0 +1,41 @@
+body {
+    background-image: url("http://bbrew-stage.s3.amazonaws.com/assets/backgrounds/Brick-Pattern-94f221c3559e6803ed2b73548d594967.jpg");
+}
+
+.logo{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.font {
+    color: #ffffff; 
+    padding-bottom: 28px;
+}
+
+.welcome {
+    font-family: fantasy;
+    font-size: 80px;
+}
+
+#datepicker, #enter {
+    width: 200px;
+}
+
+#enter {
+    width: 200px;
+    height: 50px;
+    font-family: fantasy; 
+    font-size: 20px;
+}
+
+@media (min-width: 20px){
+    .form-inline .input-group {
+        display: inline-table;
+        vertical-align: middle;
+    }
+}
+
+.center{
+    text-align: center;
+    vertical-align: middle;
+}
