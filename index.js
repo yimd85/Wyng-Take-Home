@@ -46,8 +46,6 @@ $(document).ready(function(){
             underAge();
         } else if (todayYear - yearThen === 21 &&  todayMonth <  monthThen) {
             underAge();
-        } else if (todayYear - yearThen === 21 &&  todayMonth <  monthThen ){
-            underAge();
         } else if (todayYear - yearThen === 21 &&  todayMonth === monthThen  && todayDate <  dayThen) {
             underAge();
         } else {
